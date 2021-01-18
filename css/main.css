@@ -40,7 +40,7 @@ a {
 }
 #title {
 	font-size: 20px;
-	color: #b0ddce;
+	color: #f4cccc;
 	padding: 10px 15px;
 }
 #menu {
@@ -55,7 +55,7 @@ a {
 }
 #menu .menu-item-link{
 	font-size: 12px;
-	color: #b0ddce;
+	color: #f4cccc;
 }
 #menu .menu-item-link:hover {
 	border-bottom: 1px solid;
