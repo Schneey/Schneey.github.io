@@ -94,7 +94,7 @@ a {
 	left: -250px;
 	height: 100%;
 	top: 0px;
-	background: #41555d;
+	background: #000000;
 	z-index: 99;
 }
 #sidebar.on {
@@ -111,7 +111,7 @@ a {
 	border-radius:5px;
 	background: #3f4448;
 	text-indent: 20px;
-	color: #64cfff;
+	color: #ffffff;
 }
 .sidebar-toc {
 	position: absolute;
@@ -161,7 +161,7 @@ a {
 }
 
 #sidebar ul li a:hover{
-	color: #ccc;
+	color: #d9d9d9;
 	border-bottom: 1px solid #ccc;
 }
 #sidebar .active a{
