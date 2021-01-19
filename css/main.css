@@ -10,7 +10,7 @@ html{
 }
 
 a {
-    color: #069;
+    color: #000000;
     text-decoration: none;
 }
 .content-on{
@@ -219,7 +219,7 @@ a {
 }
 
 .index-li *:hover {
-	color:#1399b5
+	color:#404040
 }
 .article-meta *{
 	position: relative;
@@ -246,7 +246,7 @@ a {
 #index-paginator .extend:hover,
 #index-paginator .page-number:hover {
   color: #fff !important;
-  background-color: #21a675 !important;
+  background-color: #acabab !important;
 }
 #index-paginator .extend,
 #index-paginator .page-number {
@@ -259,7 +259,7 @@ a {
   font-size: 0.9rem;
   border-radius: 5px;
   color: #0c0807;
-  background-color: #e0eee8;
+  background-color: #cccccc;
   transition: all 0.2s;
 }
 /* article */
